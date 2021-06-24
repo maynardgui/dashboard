@@ -1,5 +1,7 @@
 # dashboard
 
+## Curso vuejsbrasil
+
 ## Project setup
 ```
 yarn install
